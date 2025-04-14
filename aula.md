@@ -1,0 +1,1 @@
+`Propagation->Feedforwar:` propaga as entradas através dos neuronios da rede, calculando a junção aditiva de cada um, e submetendo á função da saída S <- sigmóide; é contabilizado o erro: diferença e ntre a saída desejada aea a saída obtida `erro=Yd-Y`
